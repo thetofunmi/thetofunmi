@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thetofunmi
 - 👀 I’m interested in Application Security.
-- 🌱 I’m currently learning Infrastructure as code.
+- 🌱 I’m currently learning Infrastructure as code (Ansible, Terraform).
 - 💞️ I’m looking to collaborate on application security projects, VAPTs.
 - 📫 How to reach me @ thetofunmi@outlook.com
 
